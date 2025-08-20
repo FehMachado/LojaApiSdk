@@ -98,7 +98,7 @@ dotnet restore
 1. **Clone o repositório**
 
    ```bash
-   git clone https://github.com/seu-usuario/LojaApiSdk.git
+   git clone https://github.com/FehMachado/LojaApiSdk.git
    cd LojaApiSdk
    ```
 
